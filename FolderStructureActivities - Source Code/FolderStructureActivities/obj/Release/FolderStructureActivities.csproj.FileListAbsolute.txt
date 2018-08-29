@@ -1,0 +1,12 @@
+c:\users\10639731\source\repos\FolderStructureActivities\FolderStructureActivities\bin\Release\FolderStructureActivities.dll
+c:\users\10639731\source\repos\FolderStructureActivities\FolderStructureActivities\bin\Release\FolderStructureActivities.pdb
+c:\users\10639731\source\repos\FolderStructureActivities\FolderStructureActivities\obj\Release\FolderStructureActivities.csprojResolveAssemblyReference.cache
+c:\users\10639731\source\repos\FolderStructureActivities\FolderStructureActivities\obj\Release\FolderStructureActivities.csproj.CoreCompileInputs.cache
+c:\users\10639731\source\repos\FolderStructureActivities\FolderStructureActivities\obj\Release\FolderStructureActivities.dll
+c:\users\10639731\source\repos\FolderStructureActivities\FolderStructureActivities\obj\Release\FolderStructureActivities.pdb
+C:\Users\10639731\Desktop\Hackahton_Upload\FolderStructureActivities\FolderStructureActivities\bin\Release\FolderStructureActivities.dll
+C:\Users\10639731\Desktop\Hackahton_Upload\FolderStructureActivities\FolderStructureActivities\bin\Release\FolderStructureActivities.pdb
+C:\Users\10639731\Desktop\Hackahton_Upload\FolderStructureActivities\FolderStructureActivities\obj\Release\FolderStructureActivities.csprojResolveAssemblyReference.cache
+C:\Users\10639731\Desktop\Hackahton_Upload\FolderStructureActivities\FolderStructureActivities\obj\Release\FolderStructureActivities.csproj.CoreCompileInputs.cache
+C:\Users\10639731\Desktop\Hackahton_Upload\FolderStructureActivities\FolderStructureActivities\obj\Release\FolderStructureActivities.dll
+C:\Users\10639731\Desktop\Hackahton_Upload\FolderStructureActivities\FolderStructureActivities\obj\Release\FolderStructureActivities.pdb

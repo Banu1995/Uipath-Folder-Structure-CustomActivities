@@ -1,0 +1,6 @@
+c:\users\10639731\source\repos\FolderStructureActivities\FolderStructureActivities\bin\Debug\FolderStructureActivities.dll
+c:\users\10639731\source\repos\FolderStructureActivities\FolderStructureActivities\bin\Debug\FolderStructureActivities.pdb
+c:\users\10639731\source\repos\FolderStructureActivities\FolderStructureActivities\obj\Debug\FolderStructureActivities.csprojResolveAssemblyReference.cache
+c:\users\10639731\source\repos\FolderStructureActivities\FolderStructureActivities\obj\Debug\FolderStructureActivities.csproj.CoreCompileInputs.cache
+c:\users\10639731\source\repos\FolderStructureActivities\FolderStructureActivities\obj\Debug\FolderStructureActivities.dll
+c:\users\10639731\source\repos\FolderStructureActivities\FolderStructureActivities\obj\Debug\FolderStructureActivities.pdb

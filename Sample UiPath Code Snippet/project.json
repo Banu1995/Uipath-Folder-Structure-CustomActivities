@@ -1,0 +1,29 @@
+{
+  "name": "Folder_Structure_CustomActivities",
+  "description": "Blank Project",
+  "main": "Main.xaml",
+  "dependencies": {
+    "Folder.Structure.Activities": "0.7.1.3",
+    "UiPath.Core.Activities": "18.1.6621.12947",
+    "UiPath.Credentials.Activities": "1.1.6479.13204",
+    "UiPath.Excel.Activities": "2.3.6682.26635",
+    "UiPath.Mail.Activities": "1.1.6562.21018",
+    "UiPath.Notepad.Activities": "0.0.6800.27444",
+    "UiPath.PDF.Activities": "1.1.6732.21973",
+    "UiPath.Platform.Activities": "2.1.5992.2567",
+    "UiPath.WebAPI.Activities": "1.1.6479.13209",
+    "UiPath.Word.Activities": "1.1.6479.13205",
+    "UiPathTeam.Encryption.Activities": "1.0.4.0",
+    "UiPathTeam.PDF.Extensions.Activities": "2.0.0.0",
+    "UiPathTeam.TwoStepAuthentication.Activities": "1.0.0.2",
+    "UiPathTeam.XPathWebScrape.Activities": "1.0.1.0"
+  },
+  "excludedData": [
+    "Private:*",
+    "*password*"
+  ],
+  "toolVersion": "18.1.2.0",
+  "projectVersion": "1.0.6815.33978",
+  "packOptions": {},
+  "runtimeOptions": {}
+}
